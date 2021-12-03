@@ -1,4 +1,4 @@
-# US-Colleges
+# US Colleges Salaries
 
 **Business Task: 
 
